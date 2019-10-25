@@ -1,0 +1,7 @@
+Rain Water Trapped	
+Longest valid Parentheses	
+Sliding Window Maximum	
+First negative integer in window size B	
+First non-repeating character in a stream of characters
+
+ 
